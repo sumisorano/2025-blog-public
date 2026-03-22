@@ -63,7 +63,7 @@ export default function HiCard() {
 				<h1 className='mt-5 text-2xl tracking-widest'>
 					{greeting} <br /> 
 					我是 <span className='text-linear text-[32px] mx-1 font-bold'>{username}</span> <br /> 
-					<span className='text-lg text-gray-500 mt-2 block'>很高兴遇见你</span>
+					<span className='text-lg text-gray-500 mt-2 block'>Ciallo~(∠・ω< )⌒☆</span>
 				</h1>
 			</Card>
 		</HomeDraggableLayer>
