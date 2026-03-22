@@ -42,14 +42,14 @@ export default function HiCard() {
 						{/* 左上角的装饰（比如红灯笼或梅花） */}
 						<img
 							src='/images/new-year/lantern-left.png'
-							alt='Lunar New Year decoration'
+							alt='Chinese New Year decoration'
 							className='pointer-events-none absolute'
 							style={{ width: 80, left: -10, top: -20, opacity: 0.95 }}
 						/>
 						{/* 右下角的装饰（比如小福字或鞭炮） */}
 						<img
 							src='/images/new-year/lantern-right.png'
-							alt='Lunar New Year decoration'
+							alt='Chinese New Year decoration'
 							className='pointer-events-none absolute'
 							style={{ width: 70, bottom: -10, right: -10, opacity: 0.95 }}
 						/>
