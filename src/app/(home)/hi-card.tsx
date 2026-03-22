@@ -37,7 +37,7 @@ export default function HiCard() {
 			<Card order={styles.order} width={styles.width} height={styles.height} x={x} y={y} className='relative text-center max-sm:static max-sm:translate-0'>
 				
 				{/* 🧧 农历新年装饰元素 */}
-				{showLunarNewYear && (
+				{showChineseNewYear && (
 					<>
 						{/* 左上角的装饰（比如红灯笼或梅花） */}
 						<img
