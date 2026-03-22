@@ -1,8 +1,8 @@
 {
 	"meta": {
-		"title": "泛舟",
+		"title": "YYsuni",
 		"description": "",
-		"username": "Fz"
+		"username": "Suni"
 	},
 	"theme": {
 		"colorBrand": "#de4331",
@@ -44,21 +44,21 @@
 		{
 			"id": "github",
 			"type": "github",
-			"value": "https://github.com/sumisorano/",
+			"value": "https://github.com/yysuni",
 			"label": "Github",
 			"order": 3
 		},
 		{
 			"id": "juejin",
 			"type": "juejin",
-			"value": "https://space.bilibili.com/569667",
-			"label": "哔哩哔哩",
+			"value": "https://juejin.cn/user/2427311675422382",
+			"label": "稀土掘金",
 			"order": 2
 		},
 		{
 			"id": "email",
 			"type": "email",
-			"value": "sumisorano@gmail.com",
+			"value": "yysuni1001@gmail.com",
 			"label": "",
 			"order": 1
 		}
