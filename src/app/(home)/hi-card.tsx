@@ -8,13 +8,13 @@ function getGreeting() {
 	const hour = new Date().getHours()
 
 	if (hour >= 6 && hour < 12) {
-		return '晨光熹微，早上好'
+		return 'Ciallo~(∠・ω< )⌒☆，早上好'
 	} else if (hour >= 12 && hour < 18) {
-		return '午后悠长，下午好'
+		return 'Ciallo~(∠・ω< )⌒☆，下午好'
 	} else if (hour >= 18 && hour < 22) {
-		return '华灯初上，晚上好'
+		return 'Ciallo~(∠・ω< )⌒☆，晚上好'
 	} else {
-		return '夜色温柔，晚安'
+		return 'Ciallo~(∠・ω< )⌒☆，晚安'
 	}
 }
 
