@@ -30,7 +30,7 @@ export default function HiCard() {
 	const y = styles.offsetY !== null ? center.y + styles.offsetY : center.y - styles.height / 2
 
 	// 新年装饰开关：改成 false 就会自动隐藏装饰
-	const showLunarNewYear = true;
+	const showChineseNewYear = true;
 
 	return (
 		<HomeDraggableLayer cardKey='hiCard' x={x} y={y} width={styles.width} height={styles.height}>
